@@ -1,0 +1,12 @@
+1. Decorator Patterns allows a user to add new functionality to an existing object without altering it's
+structure.
+
+
+2. This is a structural pattern as this pattern acts as a wrapper to existing class.
+
+3. This Pattern creates a decorator class which wraps the original class and provides additional functionality
+    keeping class method signature intact.
+
+
+
+
