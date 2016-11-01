@@ -1,0 +1,21 @@
+Decorator
+
+    Intent
+    >> Attach additional responsibilities to an object dynamically.Decorators provide a flexible alternative to
+    subclassing for extending functionality.
+
+    >>Client-specified embellishment(a decorative detail or feature added to something to make it more attractive.)
+     of a core object by recursively wrapping it.
+    >> Wrapping a gift, putting it in a box, and wrapping the box.
+
+
+    Problem:
+        You want to add behaviour or state to individual objects at run time. Inheritance is not
+        feasible because it is static and applies to an entire class.
+
+
+
+    Discussion:
+       Suppose we are working on a user interface toolkit and we wish to support adding borders and scrolls bars to windows.
+       We could define and inheritance hierarchy like
+       
